@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: photo-id-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /health

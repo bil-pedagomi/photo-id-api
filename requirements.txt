@@ -1,0 +1,8 @@
+flask==3.0.0
+rembg==2.0.57
+pillow==10.4.0
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+requests==2.31.0
+gunicorn==22.0.0
+onnxruntime==1.18.1
